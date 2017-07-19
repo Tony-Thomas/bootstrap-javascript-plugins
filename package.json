@@ -1,0 +1,23 @@
+{
+  "name": "modal-dropdown",
+  "version": "1.0.0",
+  "description": "Bootstrap modal dropdown",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tony Thomas",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "jquery": "^3.2.1"
+  }
+},
+"repository": {
+  "type": "git",
+  "url": "git+https://github.com/Tony-Thomas/isotope-image-gallery.git"
+},
+"bugs": {
+  "url": "https://github.com/Tony-Thomas/isotope-image-gallery/issues"
+},
+"homepage": "https://github.com/Tony-Thomas/isotope-image-gallery#readme"
